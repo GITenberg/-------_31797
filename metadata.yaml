@@ -1,0 +1,51 @@
+_repo: '-------_31797'
+_version: 0.1.0
+alternative_title: Hamlet. Greek
+contributor:
+  translator:
+    agent_name: Polylas, Iakovos
+    aliases:
+    - Πολυλάς, ¨Ιάκωβος
+    - Πολυλάς, Ιάκωβος
+    - Polylas, Iakobos
+    birthdate: 1826
+    deathdate: 1898
+    gutenberg_agent_id: '34711'
+    url: http://www.gutenberg.org/2009/agents/34711
+    wikipedia: http://el.wikipedia.org/wiki/%CE%99%CE%AC%CE%BA%CF%89%CE%B2%CE%BF%CF%82_%CE%A0%CE%BF%CE%BB%CF%85%CE%BB%CE%AC%CF%82
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Shakespeare, William
+    aliases:
+    - Shakspeare, William
+    - Shakspere, William
+    birthdate: 1564
+    deathdate: 1616
+    gutenberg_agent_id: '65'
+    url: http://www.gutenberg.org/2009/agents/65
+    wikipedia: http://en.wikipedia.org/wiki/William_Shakespeare
+description: ''
+gutenberg_bookshelf: Best Books Ever Listings
+gutenberg_issued: '2010-03-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '31797'
+language: el
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Kings and rulers -- Succession -- Drama'
+- !lcsh 'Denmark -- Drama'
+- !lcsh 'Revenge -- Drama'
+- !lcsh 'Hamlet (Legendary character) -- Drama'
+- !lcc 'PR'
+- !lcsh 'Murder victims'' families -- Drama'
+- !lcsh 'Fathers -- Death -- Drama'
+- !lcsh 'Princes -- Drama'
+- !lcsh 'Tragedies'
+title: Αμλέτος
+url: http://www.gutenberg.org/ebooks/31797
